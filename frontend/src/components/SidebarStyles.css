@@ -1,0 +1,46 @@
+/* Sidebar styles */
+.sidebar-header {
+    background-color: #2f3a45;
+    color: white;
+    padding: 15px;
+  }
+  
+  .sidebar-footer {
+    background-color: #2f3a45;
+    padding: 10px;
+  }
+  
+  .ProSidebar {
+    width: 250px;
+    background-color: #263238;
+    color: #ffffff;
+  }
+  
+  .ProSidebar .menu-item {
+    padding: 10px;
+    color: #ffffff;
+  }
+  
+  .ProSidebar .menu-item.active {
+    background-color: #4a90e2;
+  }
+  
+  .ProSidebar .menu-item a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .ProSidebar .menu-item:hover {
+    background-color: #3c4e62;
+  }
+  
+  /* Add custom styles for the sidebar items */
+  .ProSidebar .menu-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ProSidebar .menu-item svg {
+    margin-right: 10px;
+  }
+  
