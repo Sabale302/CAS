@@ -48,3 +48,13 @@ The **College Analytical Suite (CAS)** is a dynamic platform designed to provide
   
 The app should now be running at http://localhost:3000.
 
+### Contributing
+Feel free to fork this repository and submit pull requests. Please ensure that your contributions adhere to the existing coding style and are accompanied by proper documentation.
+
+Fork the repository.
+Create a new branch (git checkout -b feature-name).
+Make your changes.
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-name).
+Create a new pull request.
+
