@@ -32,3 +32,19 @@ The **College Analytical Suite (CAS)** is a dynamic platform designed to provide
    ```bash
    git clone https://github.com/Sabale302/CAS.git
    cd CAS
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Set up the database:
+
+- Create a new database in MySQL (e.g., eduvision_db).
+- Add your database credentials to the .env file.
+4. Start the development server:
+  ```bash
+  npm start
+  ```
+  
+The app should now be running at http://localhost:3000.
+
