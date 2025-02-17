@@ -42,9 +42,9 @@ The **College Analytical Suite (CAS)** is a dynamic platform designed to provide
 - Create a new database in MySQL (e.g., eduvision_db).
 - Add your database credentials to the .env file.
 4. Start the development server:
-  ```bash
-  npm start
-  ```
+     ```bash
+     npm start
+     ```
   
 The app should now be running at http://localhost:3000.
 
